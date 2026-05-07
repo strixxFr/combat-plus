@@ -1,5 +1,4 @@
- Outer pipes  Cell padding 
-No sorting
+
 | Mod Name                   | Current Version | Link                                                                                                   |
 | -------------------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | Sodium                     | 1.21.11         | [https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)                                     |
@@ -29,7 +28,4 @@ No sorting
 | Iris Shaders               | 1.21.11         | [https://modrinth.com/mod/iris](https://modrinth.com/mod/iris)                                         |
 | More Culling               | 1.21.11         | [https://modrinth.com/mod/moreculling](https://modrinth.com/mod/moreculling)                           |
 | Respackopts                | 1.21.11         | [Respackopts - Minecraft Mod](https://modrinth.com/mod/respackopts)                                    |
-| Smooth Scrolling           | 1.21.11         | [https://modrinth.com/mod/smooth-scroll](https://modrinth.com/mod/smooth-scroll)                       |
-📋 Copy
-Clear
-Buy Me a Coffee at ko-fi.com
+| Smooth Scrolling           | 1.21.11         | [https://modrinth.com/mod/smooth-scroll](https://modrinth.com/mod/smooth-scroll)
