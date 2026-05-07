@@ -1,5 +1,4 @@
-
-| Item Name                   | Current Version | Link                                                                                                   |
+| Item Name                  | Current Version | Link                                                                                                   |
 | -------------------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | Sodium                     | 1.21.11         | [https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)                                     |
 | Lithium                    | 1.21.11         | [https://modrinth.com/mod/lithium](https://modrinth.com/mod/lithium)                                   |
@@ -28,4 +27,5 @@
 | Iris Shaders               | 1.21.11         | [https://modrinth.com/mod/iris](https://modrinth.com/mod/iris)                                         |
 | More Culling               | 1.21.11         | [https://modrinth.com/mod/moreculling](https://modrinth.com/mod/moreculling)                           |
 | Respackopts                | 1.21.11         | [Respackopts - Minecraft Mod](https://modrinth.com/mod/respackopts)                                    |
-| Smooth Scrolling           | 1.21.11         | [https://modrinth.com/mod/smooth-scroll](https://modrinth.com/mod/smooth-scroll)
+| Smooth Scrolling           | 1.21.11         | [https://modrinth.com/mod/smooth-scroll](https://modrinth.com/mod/smooth-scroll)                       |
+| Marlowww+                  | 1.21.11         | [Marlowww+ - Minecraft Resource Pack](https://modrinth.com/resourcepack/marlowww+)                     |
