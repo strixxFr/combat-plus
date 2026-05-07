@@ -1,5 +1,5 @@
- Outer pipes  Cell padding 
-No sorting
+**Item List**
+
 | Item Name                  | Current Version | Link                                                                                                   |
 | -------------------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | Sodium                     | 1.21.11         | [https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)                                     |
@@ -30,7 +30,6 @@ No sorting
 | More Culling               | 1.21.11         | [https://modrinth.com/mod/moreculling](https://modrinth.com/mod/moreculling)                           |
 | Respackopts                | 1.21.11         | [https://modrinth.com/mod/respackopts](https://modrinth.com/mod/respackopts)                           |
 | Smooth Scrolling           | 1.21.11         | [https://modrinth.com/mod/smooth-scroll](https://modrinth.com/mod/smooth-scroll)                       |
+| TotemCounter               | 1.21.11         | [https://modrinth.com/mod/totemcounter](https://modrinth.com/mod/totemcounter)                         |
+| Shield Fixes               | 1.21.11         | [https://modrinth.com/mod/complete-shield-fixes](https://modrinth.com/mod/complete-shield-fixes)       |
 | Marlowww+                  | 1.21.11         | [https://modrinth.com/resourcepack/marlowww+](https://modrinth.com/resourcepack/marlowww+)             |
-📋 Copy
-Clear
-Buy Me a Coffee at ko-fi.com
