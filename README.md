@@ -1,5 +1,5 @@
 
-| Mod Name                   | Current Version | Link                                                                                                   |
+| Item Name                   | Current Version | Link                                                                                                   |
 | -------------------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
 | Sodium                     | 1.21.11         | [https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)                                     |
 | Lithium                    | 1.21.11         | [https://modrinth.com/mod/lithium](https://modrinth.com/mod/lithium)                                   |
